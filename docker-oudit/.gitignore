@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Logs
+*.log
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
+
+# dotenv environment variables file
+.env
+
+# Python cache
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Docker files (якщо є)
+docker-compose.override.yml
